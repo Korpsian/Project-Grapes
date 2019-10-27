@@ -17,3 +17,5 @@
 - Bildvorschläge zu ähnlichen Bildern bei Anwählen von einem Bild
 - Bildvorschläge sortieren können nach Farbe oder Inhalt
 - Einen "Random" Button welcher ein zufälliges Bild, Text oder Farbe zeigt (auswählbar)
+- Browserextension um Bilder von Webseiten direkt zu implementieren
+- zentralen Button um alle eingebetteten Links zu Bilder in einen Ordner herunterzuladen
