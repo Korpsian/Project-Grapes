@@ -1,8 +1,8 @@
 # 📓 Skizzen 📓
 
-![](./img/Whiteboard Skizzen/Home Screen.jpg)
-![](./img/Whiteboard Skizzen/Workspace.jpg)
-![](./img/Whiteboard Skizzen/Präsentieren.jpg)
-![](./img/Whiteboard Skizzen/Filter.jpg)
-![](./img/Whiteboard Skizzen/Overview.jpg)
-![](./img/Whiteboard Skizzen/Overview 2.jpg)
+![Home Screen](./img/WhiteboardSkizzen/HomeScreen.jpg)
+![Workspace](./img/WhiteboardSkizzen/Workspace.jpg)
+![Präsentieren](./img/WhiteboardSkizzen/Präsentieren.jpg)
+![Filter](./img/WhiteboardSkizzen/Filter.jpg)
+![Overview](./img/WhiteboardSkizzen/Overview.jpg)
+![Overview2](./img/WhiteboardSkizzen/Overview2.jpg)
