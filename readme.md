@@ -20,7 +20,7 @@
 - Moody
 - Brainstorm / Stormbrain
 - Mood.
-- Moodify
+- **Moodify** 👏
 - Moodora
 - PickMood
 - Mind Tornado
@@ -38,4 +38,4 @@
 - [Personas und Szenarien](Personas.md)
 - [Details](Details.md)
 - [Fragenstellungen für Umfragen](Fragen.md)
-- 
+-
