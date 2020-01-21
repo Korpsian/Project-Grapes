@@ -5,7 +5,6 @@
 ### Adobe ###
 # Adobe Source Files
 *.psd
-*.ai
 *.prproj
 *.aep
 
