@@ -1,0 +1,34 @@
+Bock auf Job
+
+4D-Prozess
+- Discover: Persona, Konkurrenz, Umfrage
+- Define: Wireframes, Gestaltgesetze, Thinking Aloud Test
+- Design: Styleguide
+- Develop: Prototype
+
+Simplyfit
+
+Inspirationsaspekte
+Eisbergmodell
+Personas
+Einrichtung
+Aufbau (z.B Most Important Information)
+Gestaltgesetze 
+Navigation
+
+Eventbuddy
+
+4D-Prozess
+- Discover: Umfrage, Persona, Konkurrenz
+- Define: Wireframes,Thinking Aloud Test
+- Design: Styleguide, Gestaltgesetze
+- Develop: Prototype
+- Appstore Werbung
+
+Bock auf Job
+
+4D-Prozess
+- Discover: Kontext (Explizites/Implizites Wissen, Konkurrenz), Personas, Szenarien
+- Define: Problem (Aussage), Flowchart, Mock-Ups
+- Design: Erste Prototypen, Prototypen Usabilty, Styleguide (Aufbau, Font, Farbe, Icons), Gestaltgesetze,
+- Develop: Walkthrough
