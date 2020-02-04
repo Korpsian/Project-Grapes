@@ -18,4 +18,14 @@
     
     - Die Schriftfamilie Roboto ist auf Displays optimiert
     
+    - passt zu Materialdesign
+    
     - Regular deshalb, damit keine zu starke Gewichtung auf Text angewendet wird, die vom Moodboard ablenken können
+
+- Quasi-konventionen:
+  
+  - Adobe Produkte
+    
+    - Werkzeugleiste oben links
+    
+    - darüber sind Werkzeug-spezifische Einstellungen, die sich über die ganze Bildschirmbreite spannen
