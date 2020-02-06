@@ -10,7 +10,7 @@
     
     - trotzdem eine bunte Farbe im Styleguide, die allerdings nicht in der App verwendet wird
   
-  - Jedes Popup, Dropdown hat eine Rundung von 8px
+  - Jedes Popup, Dropdown hat eine Rundung von 8px, damit das Design abgerundet (Pun intended) und aufeinander abgestimmt ist
   
   - Icons sind Materialdesign-Icons -> ein sehr umfangreiches Iconsystem, das sehr gut zum Materialdesign passt
   
